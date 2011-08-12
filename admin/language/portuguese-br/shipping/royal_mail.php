@@ -4,7 +4,7 @@ $_['heading_title']             = 'Royal Mail';
 
 // Text
 $_['text_shipping']             = 'Shipping';
-$_['text_success']              = 'Success: You have modified Royal Mail shipping!';
+$_['text_success']              = 'Sucesso: You have modified Royal Mail shipping!';
 $_['text_1st_class_standard']   = 'First Class Standard Post';
 $_['text_1st_class_recorded']   = 'First Class Recorded Post';
 $_['text_2nd_class_standard']   = 'Second Class Standard Post';
@@ -23,9 +23,9 @@ $_['entry_display_time']        = 'Display Delivery Time:<br /><span class="help
 $_['entry_weight_class']        = 'Weight Class:';
 $_['entry_tax']                 = 'Tax Class:';
 $_['entry_geo_zone']            = 'Geo Zone:';
-$_['entry_status']              = 'Status:';
-$_['entry_sort_order']          = 'Sort Order:';
+$_['entry_status']              = 'Situação:';
+$_['entry_sort_order']          = 'Ordem:';
 
 // Error
-$_['error_permission']          = 'Warning: You do not have permission to modify Royal Mail shipping!';
+$_['error_permission']          = 'Aviso: You do not have permission to modify Royal Mail shipping!';
 ?>

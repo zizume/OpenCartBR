@@ -1,36 +1,36 @@
 <?php
 // Heading
-$_['heading_title']     = 'Language';  
+$_['heading_title']     = 'Idiomas';
 
 // Text
-$_['text_success']      = 'Success: You have modified languages!'; 
+$_['text_success']      = 'Sucesso: Você modificou idiomas!';
 
 // Column
-$_['column_name']       = 'Language Name';
-$_['column_code']       = 'Code';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Nome do Idioma';
+$_['column_code']       = 'Código';
+$_['column_sort_order'] = 'Ordem';
+$_['column_action']     = 'Ação';
 
 // Entry
-$_['entry_name']        = 'Language Name:';
-$_['entry_code']        = 'Code:<br /><span class="help">eg: en. Do not change if this is your default language.</span>';
-$_['entry_locale']      = 'Locale:<br /><span class="help">eg: en_US.UTF-8,en_US,en-gb,en_gb,english</span>';
-$_['entry_image']       = 'Image:<br /><span class="help">eg: gb.png</span>';
-$_['entry_directory']   = 'Directory:<br /><span class="help">name of the language directory (case-sensitive)</span>';
-$_['entry_filename']    = 'Filename:<br /><span class="help">main language filename without extension</span>';
-$_['entry_status']      = 'Status:<br /><span class="help">Hide/Show it in language dropdown</span>';
-$_['entry_sort_order']  = 'Sort Order:';
+$_['entry_name']        = 'Nome do Idioma:';
+$_['entry_code']        = 'Código:<br /><span class="help">ex: br. Não mude se esse for o seu idioma padrão.</span>';
+$_['entry_locale']      = 'Locale:<br /><span class="help">ex: pt_BR.UTF-8,pt_BR,portuguese</span>';
+$_['entry_image']       = 'Imagem:<br /><span class="help">ex: br.png</span>';
+$_['entry_directory']   = 'Pasta:<br /><span class="help">nome da pasta de idioma (diferencia maiúsculas de minúsculas)</span>';
+$_['entry_filename']    = 'Nome do arquivo:<br /><span class="help">nome do arquivo principal idioma sem extensão</span>';
+$_['entry_status']      = 'Situação:<br /><span class="help">Esconde/Mostra na lista suspensa de idioma</span>';
+$_['entry_sort_order']  = 'Ordem:';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify languages!';
-$_['error_name']        = 'Language Name must be between 3 and 32 characters!';
-$_['error_code']        = 'Language Code must at least 2 characters!';
-$_['error_locale']      = 'Locale required!';
-$_['error_image']       = 'Image Filename must be between 3 and 64 characters!';
-$_['error_directory']   = 'Directory required!';
-$_['error_filename']    = 'Filename must be between 3 and 64 characters!';
-$_['error_default']     = 'Warning: This language cannot be deleted as it is currently assigned as the default store language!';
-$_['error_admin']       = 'Warning: This Language cannot be deleted as it is currently assigned as the administration language!';
-$_['error_store']       = 'Warning: This language cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']       = 'Warning: This language cannot be deleted as it is currently assigned to %s orders!';
+$_['error_permission']  = 'Aviso: Você não tem permissão para modificar idiomas!';
+$_['error_name']        = 'Nome do Idioma deve ter entre 3 e 32 caracteres!';
+$_['error_code']        = 'Código idioma deveter pelo menos dois caracteres!';
+$_['error_locale']      = 'Locale é necessário!';
+$_['error_image']       = 'O nome do arquivo de imagem deve ter entre 3 e 64 caracteres!';
+$_['error_directory']   = 'Pasta é necessária!';
+$_['error_filename']    = 'Nome do arquivo deve ter entre 3 a 64 caracteres!';
+$_['error_default']     = 'Aviso: Este idioma não pode ser excluído uma vez que atualmente esta atribuído como the default store language!';
+$_['error_admin']       = 'Aviso: Este idioma não pode ser excluído uma vez que atualmente esta atribuído como the administration language!';
+$_['error_store']       = 'Aviso: Este idioma não pode ser excluído uma vez que atualmente esta atribuído a %s lojas!';
+$_['error_order']       = 'Aviso: Este idioma não pode ser excluído uma vez que atualmente esta atribuído a %s pedidos!';
 ?>

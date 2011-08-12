@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']             = 'Settings';
+$_['heading_title']             = 'Configurações';
 
 // Text
-$_['text_success']              = 'Success: You have modified settings!';
-$_['text_image_manager']        = 'Image Manager';
-$_['text_mail']                 = 'Mail';
+$_['text_success']              = 'Sucesso: You have modified settings!';
+$_['text_image_manager']        = 'Gerenciador de imagem';
+$_['text_mail']                 = 'Correio';
 $_['text_smtp']                 = 'SMTP';
 
 // Entry
-$_['entry_name']                = 'Store Name:';
+$_['entry_name']                = 'Nome da loja:';
 $_['entry_owner']               = 'Store Owner:';
-$_['entry_address']             = 'Address:';
+$_['entry_address']             = 'Endereço:';
 $_['entry_email']               = 'E-Mail:';
-$_['entry_telephone']           = 'Telephone:';
+$_['entry_telephone']           = 'Telefone:';
 $_['entry_fax']                 = 'Fax:';
 $_['entry_title']               = 'Title:';
 $_['entry_meta_description']    = 'Meta Tag Description:';
 $_['entry_layout']              = 'Default Layout:';
 $_['entry_template']            = 'Template:';
-$_['entry_country']             = 'Country:';
-$_['entry_zone']                = 'Region / State:';
+$_['entry_country']             = 'País:';
+$_['entry_zone']                = 'Região / Estado:';
 $_['entry_language']            = 'Language:';
 $_['entry_admin_language']      = 'Administration Language:';
 $_['entry_currency']            = 'Currency:<br /><span class="help">Change the default currency. Clear your browser cache to see the change and reset your existing cookie.</span>';
@@ -84,13 +84,13 @@ $_['entry_error_filename']      = 'Error Log Filename:';
 $_['entry_google_analytics']    = 'Google Analytics Code:<br /><span class="help">Login to your <a onclick="window.open(\'http://www.google.com/analytics/\');"><u>Google Analytics</u></a> account and after creating your web site profile copy and paste the analytics code into this field.</span>';
 
 // Error
-$_['error_warning']             = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']          = 'Warning: You do not have permission to modify settings!';
+$_['error_warning']             = 'Aviso: Por favor verifique o formulário com cuidado para não ter erros!';
+$_['error_permission']          = 'Aviso: You do not have permission to modify settings!';
 $_['error_name']                = 'Store Name must be between 3 and 32 characters!';
 $_['error_owner']               = 'Store Owner must be between 3 and 64 characters!';
 $_['error_address']             = 'Store Address must be between 10 and 256 characters!';
-$_['error_email']               = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']           = 'Telephone must be between 3 and 32 characters!';
+$_['error_email']               = 'Endereço de e-mail não parece ser válido!';
+$_['error_telephone']           = 'Telefone deve ter entre 3 e 32 caracteres!';
 $_['error_title']               = 'Title must be between 3 and 32 characters!';
 $_['error_limit']       	    = 'Limit required!';
 $_['error_image_thumb']         = 'Product Image Thumb Size dimensions required!';

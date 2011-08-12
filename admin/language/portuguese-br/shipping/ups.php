@@ -4,7 +4,7 @@ $_['heading_title']                = 'UPS';
 
 // Text
 $_['text_shipping']                = 'Shipping';
-$_['text_success']                 = 'Success: You have modified UPS shipping!';
+$_['text_success']                 = 'Sucesso: You have modified UPS shipping!';
 $_['text_regular_daily_pickup']    = 'Regular Daily Pickup';
 $_['text_daily_pickup']            = 'Daily Pickup';
 $_['text_customer_counter']        = 'Customer Counter';
@@ -73,14 +73,14 @@ $_['entry_weight_code']            = 'Weight Code:<br /><span class="help">Allow
 $_['entry_weight_class']           = 'Weight Class:<span class="help">Set to kilograms or pounds.</span>';
 $_['entry_length_code']            = 'Length Code:<br /><span class="help">Make sure you match the measurement class with the measurement code.</span>';
 $_['entry_length_class']           = 'Length Class:<span class="help">Set to centimeters or inches.</span>';
-$_['entry_dimension']			   = 'Dimensions (L x W x H):';
+$_['entry_dimension']			   = 'Dimensões (C x L x A):';
 $_['entry_tax']                    = 'Tax Class:';
 $_['entry_geo_zone']               = 'Geo Zone:';
-$_['entry_status']                 = 'Status:';
-$_['entry_sort_order']             = 'Sort Order:';
+$_['entry_status']                 = 'Situação:';
+$_['entry_sort_order']             = 'Ordem:';
 
 // Error
-$_['error_permission']             = 'Warning: You do not have permission to modify UPS (US) shipping!';
+$_['error_permission']             = 'Aviso: You do not have permission to modify UPS (US) shipping!';
 $_['error_key']                    = 'Access Key Required!';
 $_['error_username']               = 'Username Required!';
 $_['error_password']               = 'Password Required!';

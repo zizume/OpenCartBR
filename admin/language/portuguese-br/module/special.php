@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']       = 'Specials';
+$_['heading_title']       = 'Especiais';
 
 // Text
-$_['text_module']         = 'Modules';
-$_['text_success']        = 'Success: You have modified module specials!';
+$_['text_module']         = 'Módulos';
+$_['text_success']        = 'Sucesso: You have modified module specials!';
 $_['text_content_top']    = 'Content Top';
 $_['text_content_bottom'] = 'Content Bottom';
 $_['text_column_left']    = 'Column Left';
@@ -15,10 +15,10 @@ $_['entry_limit']         = 'Limit:';
 $_['entry_image']         = 'Image (W x H):';
 $_['entry_layout']        = 'Layout:';
 $_['entry_position']      = 'Position:';
-$_['entry_status']        = 'Status:';
-$_['entry_sort_order']    = 'Sort Order:';
+$_['entry_status']        = 'Situação:';
+$_['entry_sort_order']    = 'Ordem:';
 
 // Error
-$_['error_permission']    = 'Warning: You do not have permission to modify module specials!';
+$_['error_permission']    = 'Aviso: You do not have permission to modify module specials!';
 $_['error_image']         = 'Image width &amp; height dimensions required!';
 ?>

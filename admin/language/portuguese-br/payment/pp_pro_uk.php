@@ -4,7 +4,7 @@ $_['heading_title']      = 'PayPal Website Payment Pro (UK)';
 
 // Text 
 $_['text_payment']       = 'Payment';
-$_['text_success']       = 'Success: You have modified PayPal Direct (UK) account details!';
+$_['text_success']       = 'Sucesso: You have modified PayPal Direct (UK) account details!';
 $_['text_pp_pro_uk']     = '<a onclick="window.open(\'https://www.paypal.com/uk/mrb/pal=W9TBB5DTD6QJW\');"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro (UK)" title="PayPal Website Payment Pro (UK)" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization'] = 'Authorization';
 $_['text_sale']          = 'Sale';
@@ -17,13 +17,13 @@ $_['entry_partner']      = 'Partner:<br /><span class="help">The ID provided to 
 $_['entry_test']         = 'Test Mode:<br /><span class="help">Use the live or testing (sandbox) gateway server to process transactions?</span>';
 $_['entry_transaction']  = 'Transaction Method:';
 $_['entry_total']        = 'Total:<br /><span class="help">The checkout total the order must reach before this payment method becomes active.</span>';
-$_['entry_order_status'] = 'Order Status:';
+$_['entry_order_status'] = 'Situação do pedido:';
 $_['entry_geo_zone']     = 'Geo Zone:';
-$_['entry_status']       = 'Status:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_status']       = 'Situação:';
+$_['entry_sort_order']   = 'Ordem:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment PayPal Website Payment Pro (UK)!';
+$_['error_permission']   = 'Aviso: You do not have permission to modify payment PayPal Website Payment Pro (UK)!';
 $_['error_vendor']       = 'Vendor Required!'; 
 $_['error_user']         = 'User Required!'; 
 $_['error_password']     = 'Password Required!'; 

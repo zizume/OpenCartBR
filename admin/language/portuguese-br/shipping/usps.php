@@ -4,7 +4,7 @@ $_['heading_title']         = 'United States Postal Service';
 
 // Text
 $_['text_shipping']         = 'Shipping';
-$_['text_success']          = 'Success: You have modified United States Postal Service!';
+$_['text_success']          = 'Sucesso: You have modified United States Postal Service!';
 $_['text_domestic_0']       = 'First-Class';
 $_['text_domestic_1']       = 'Priority Mail';
 $_['text_domestic_2']       = 'Express Mail Hold for Pickup';
@@ -53,7 +53,7 @@ $_['entry_user_id']         = 'User ID:';
 $_['entry_postcode']        = 'Zip Code:';
 $_['entry_domestic']        = 'Domestic Services:';
 $_['entry_international']   = 'International Services:';
-$_['entry_size']            = 'Size:';
+$_['entry_size']            = 'Tamanho:';
 $_['entry_container']       = 'Container:';
 $_['entry_machinable']      = 'Machinable:';
 $_['entry_firstclass']      = 'Domestic First Class Rate Type:<br/><span class="help">First class applies to 13oz packages or less. When disabled, standard premium rates are returned.</span>';
@@ -64,12 +64,12 @@ $_['entry_display_weight']  = 'Display Delivery Weight:<br /><span class="help">
 $_['entry_weight_class']    = 'Weight Class:<br /><span class="help">Set to pounds.</span>';
 $_['entry_tax']             = 'Tax Class:';
 $_['entry_geo_zone']        = 'Geo Zone:';
-$_['entry_status']          = 'Status:';
-$_['entry_sort_order']      = 'Sort Order:';
+$_['entry_status']          = 'Situação:';
+$_['entry_sort_order']      = 'Ordem:';
 $_['entry_debug']      		= 'Debug Mode:<br /><span class="help">Saves send/recv data to the system log</span>';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify United States Postal Service!';
+$_['error_permission']      = 'Aviso: You do not have permission to modify United States Postal Service!';
 $_['error_user_id']         = 'User ID Required!';
 $_['error_postcode']        = 'Zip Code Required!';
 $_['error_width']        	= 'Width Required!';

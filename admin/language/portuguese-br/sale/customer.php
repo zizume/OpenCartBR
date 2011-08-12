@@ -1,63 +1,63 @@
 <?php
 // Heading
-$_['heading_title']         = 'Customer';
+$_['heading_title']         = 'Cliente';
 
 // Text
-$_['text_login']            = 'Login';
-$_['text_success']          = 'Success: You have modified customers!';
-$_['text_approved']         = 'You have approved %s accounts!';
-$_['text_wait']             = 'Please Wait!';
-$_['text_balance']          = 'Balance:';
+$_['text_login']            = 'Conectar';
+$_['text_success']          = 'Sucesso: Você modificou clientes!';
+$_['text_approved']         = 'Você aprovou %s contas!';
+$_['text_wait']             = 'Por favor aguarde!';
+$_['text_balance']          = 'Saldo:';
 
 // Column
-$_['column_name']           = 'Customer Name';
+$_['column_name']           = 'Nome do cliente';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
-$_['column_status']         = 'Status'; 
-$_['column_approved']       = 'Approved';
-$_['column_date_added']     = 'Date Added';
-$_['column_description']    = 'Description';
+$_['column_customer_group'] = 'Grupo de clientes';
+$_['column_status']         = 'Situação';
+$_['column_approved']       = 'Aprovado';
+$_['column_date_added']     = 'Data de entrada';
+$_['column_description']    = 'Descrição';
 $_['column_amount']         = 'Amount';
-$_['column_points']         = 'Points';
+$_['column_points']         = 'Pontos';
 $_['column_ip']             = 'IP';
 $_['column_total']          = 'Total Accounts';
-$_['column_action']         = 'Action';
+$_['column_action']         = 'Ação';
 
 // Entry
-$_['entry_firstname']       = 'First Name:';
-$_['entry_lastname']        = 'Last Name:';
+$_['entry_firstname']       = 'Nome:';
+$_['entry_lastname']        = 'Sobrenome:';
 $_['entry_email']           = 'E-Mail:';
-$_['entry_telephone']       = 'Telephone:';
+$_['entry_telephone']       = 'Telefone:';
 $_['entry_fax']             = 'Fax:';
 $_['entry_newsletter']      = 'Newsletter:';
-$_['entry_customer_group']  = 'Customer Group:';
-$_['entry_status']          = 'Status:';
-$_['entry_password']        = 'Password:';
-$_['entry_confirm']         = 'Confirm:';
-$_['entry_company']         = 'Company:';
-$_['entry_address_1']       = 'Address 1:';
-$_['entry_address_2']       = 'Address 2:';
-$_['entry_city']            = 'City:';
-$_['entry_postcode']        = 'Postcode:';
-$_['entry_country']         = 'Country:';
-$_['entry_zone']            = 'Region / State:';
-$_['entry_default']         = 'Default Address:';
+$_['entry_customer_group']  = 'Grupo de clientes:';
+$_['entry_status']          = 'Situação:';
+$_['entry_password']        = 'Senha:';
+$_['entry_confirm']         = 'Confirmar:';
+$_['entry_company']         = 'Empresa:';
+$_['entry_address_1']       = 'Endereço 1:';
+$_['entry_address_2']       = 'Endereço 2:';
+$_['entry_city']            = 'Cidade:';
+$_['entry_postcode']        = 'CEP:';
+$_['entry_country']         = 'País:';
+$_['entry_zone']            = 'Região / Estado:';
+$_['entry_default']         = 'Endereço padrão:';
 $_['entry_amount']          = 'Amount:';
-$_['entry_points']          = 'Points:';
-$_['entry_description']     = 'Description:';
+$_['entry_points']          = 'Pontos:';
+$_['entry_description']     = 'Descrição:';
 
 // Error
-$_['error_warning']         = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']      = 'Warning: You do not have permission to modify customers!';
-$_['error_firstname']       = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']        = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']           = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']       = 'Telephone must be between 3 and 32 characters!';
-$_['error_password']        = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']         = 'Password and password confirmation do not match!';
-$_['error_address_1']       = 'Address 1 must be between 3 and 128 characters!';
-$_['error_city']            = 'City must be between 2 and 128 characters!';
-$_['error_postcode']        = 'Postcode must be between 2 and 10 characters for this country!';
-$_['error_country']         = 'Please select a country!';
-$_['error_zone']            = 'Please select a region / state!';
+$_['error_warning']         = 'Aviso: Por favor verifique o formulário com cuidado para não ter erros!';
+$_['error_permission']      = 'Aviso: Você não tem permissão para modificar clientes!';
+$_['error_firstname']       = 'Nome deve ter entre 1 e 32 caracteres!';
+$_['error_lastname']        = 'Sobrenome deve ter entre 1 e 32 caracteres!';
+$_['error_email']           = 'Endereço de e-mail não parece ser válido!';
+$_['error_telephone']       = 'Telefone deve ter entre 3 e 32 caracteres!';
+$_['error_password']        = 'A senha deve ter entre 4 e 20 caracteres!';
+$_['error_confirm']         = 'Senha e confirmação de senha não correspondem!';
+$_['error_address_1']       = 'Endereço 1 deve ter entre 3 e 128 caracteres!';
+$_['error_city']            = 'Cidade deve ter entre 2 e 128 caracteres!';
+$_['error_postcode']        = 'CEP deve ter entre 2 e 10 caracteres para este país!';
+$_['error_country']         = 'Por favor selecione um país!';
+$_['error_zone']            = 'Por favor selecione uma região / estado!';
 ?>

@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']  = 'Products Viewed Report';
+$_['heading_title']  = 'Relatório de produtos visualizados';
 
 // Text
-$_['text_success']   = 'Success: You have reset the product viewed report!';
+$_['text_success']   = 'Sucesso: You have reset the product viewed report!';
 
 // Column
-$_['column_name']    = 'Product Name';
-$_['column_model']   = 'Model';
-$_['column_viewed']  = 'Viewed';
-$_['column_percent'] = 'Percent';
+$_['column_name']    = 'Nome do produto';
+$_['column_model']   = 'Modelo';
+$_['column_viewed']  = 'Visualizações';
+$_['column_percent'] = 'Percentagem';
 ?>

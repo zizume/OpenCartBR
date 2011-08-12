@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Gift Voucher';
+$_['heading_title']    = 'Vale presente';
 
 // Text
 $_['text_total']       = 'Order Totals';
-$_['text_success']     = 'Success: You have modified gift voucher total!';
+$_['text_success']     = 'Sucesso: You have modified gift voucher total!';
 
 // Entry
-$_['entry_status']     = 'Status:';
-$_['entry_sort_order'] = 'Sort Order:';
+$_['entry_status']     = 'Situação:';
+$_['entry_sort_order'] = 'Ordem:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify gift voucher total!';
+$_['error_permission'] = 'Aviso: You do not have permission to modify gift voucher total!';
 ?>

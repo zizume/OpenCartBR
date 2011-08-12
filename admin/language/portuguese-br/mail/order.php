@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_subject']      = '%s - Order Update %s';
-$_['text_order']        = 'Order ID:';
+$_['text_order']        = 'Nº do pedido:';
 $_['text_date_added']   = 'Date Ordered:';
 $_['text_order_status'] = 'Your order has been updated to the following status:';
 $_['text_comment']      = 'The comments for your order are:';

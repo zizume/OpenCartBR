@@ -1,29 +1,29 @@
 <?php
 // Heading
-$_['heading_title']      = 'Manufacturer';
+$_['heading_title']      = 'Fabricantes';
 
 // Text
-$_['text_success']       = 'Success: You have modified manufacturers!';
-$_['text_default']       = 'Default';
-$_['text_image_manager'] = 'Image Manager';
-$_['text_percent']       = 'Percentage';
+$_['text_success']       = 'Sucesso: Você modificou fabricantes!';
+$_['text_default']       = 'Padrão';
+$_['text_image_manager'] = 'Gerenciador de imagem';
+$_['text_percent']       = 'Percentagem';
 $_['text_amount']        = 'Fixed Amount';
 
 // Column
-$_['column_name']        = 'Manufacturer Name';
-$_['column_sort_order']  = 'Sort Order';
-$_['column_action']      = 'Action';
+$_['column_name']        = 'Nome do fabricante';
+$_['column_sort_order']  = 'Ordem';
+$_['column_action']      = 'Ação';
 
 // Entry
-$_['entry_name']         = 'Manufacturer Name:';
-$_['entry_store']        = 'Stores:';
+$_['entry_name']         = 'Nome do fabricante:';
+$_['entry_store']        = 'Lojas:';
 $_['entry_keyword']      = 'SEO Keyword:';
-$_['entry_image']        = 'Image:';
-$_['entry_sort_order']   = 'Sort Order:';
-$_['entry_type']         = 'Type:';
+$_['entry_image']        = 'Imagem:';
+$_['entry_sort_order']   = 'Ordem:';
+$_['entry_type']         = 'Tipo:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify manufacturers!';
-$_['error_name']         = 'Manufacturer Name must be between 3 and 64 characters!';
-$_['error_product']      = 'Warning: This manufacturer cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']   = 'Aviso: Você não tem permissão para modificar os fabricantes!';
+$_['error_name']         = 'Nome do fabricante deve ter entre 3 e 64 caracteres!';
+$_['error_product']      = 'Aviso: Este fabricante não pode ser excluído, uma vez que atualmente esta atribuído a %s produtos!';
 ?>

@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']     = 'Order Totals';
+$_['heading_title']     = 'Totais de pedidos';
 
 // Text
-$_['text_install']      = 'Install';
-$_['text_uninstall']    = 'Uninstall';
+$_['text_install']      = 'Instalar';
+$_['text_uninstall']    = 'Desinstalar';
 
 // Column
-$_['column_name']       = 'Order Totals';
-$_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Totais de pedidos';
+$_['column_status']     = 'Situação';
+$_['column_sort_order'] = 'Ordem';
+$_['column_action']     = 'Ação';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify totals!';
+$_['error_permission']  = 'Aviso: Você não tem permissão para modificar totais!';
 ?>

@@ -1,16 +1,16 @@
 <?php
-// Heading 
-$_['heading_title']    = 'Product Feeds';
+// Heading
+$_['heading_title']    = 'Feeds de produtos';
 
 // Text
-$_['text_install']     = 'Install';
-$_['text_uninstall']   = 'Uninstall';
+$_['text_install']     = 'Instalar';
+$_['text_uninstall']   = 'Desinstalar';
 
 // Column
-$_['column_name']      = 'Product Feed Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nome do feed de produto';
+$_['column_status']    = 'Situação';
+$_['column_action']    = 'Ação';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify feeds!';
+$_['error_permission'] = 'Aviso: Você não tem permissão para modificar feeds!';
 ?>

@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']     = 'Sales Report';
+$_['heading_title']     = 'Relatório de vendas';
 
 // Text
-$_['text_year']         = 'Years';
-$_['text_month']        = 'Months';
-$_['text_week']         = 'Weeks';
-$_['text_day']          = 'Days';
-$_['text_all_status']   = 'All Statuses';
+$_['text_year']         = 'Anos';
+$_['text_month']        = 'Meses';
+$_['text_week']         = 'Semanas';
+$_['text_day']          = 'Dias';
+$_['text_all_status']   = 'Todas situações';
 
 // Column
-$_['column_date_start'] = 'Date Start';
-$_['column_date_end']   = 'Date End';
-$_['column_orders']     = 'No. Orders';
-$_['column_products']   = 'No. Products';
-$_['column_tax']        = 'Tax';
+$_['column_date_start'] = 'Data inicial';
+$_['column_date_end']   = 'Data final';
+$_['column_orders']     = 'Nº de pedidos';
+$_['column_products']   = 'Nº de produtos';
+$_['column_tax']        = 'Imposto';
 $_['column_total']      = 'Total';
 
 // Entry
-$_['entry_date_start']  = 'Date Start:';
-$_['entry_date_end']    = 'Date End:';
-$_['entry_group']       = 'Group By:';
-$_['entry_status']      = 'Order Status:';
+$_['entry_date_start']  = 'Data Inicial:';
+$_['entry_date_end']    = 'Data Final:';
+$_['entry_group']       = 'Agrupado por:';
+$_['entry_status']      = 'Situação do pedido:';
 ?>

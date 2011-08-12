@@ -1,32 +1,32 @@
 <?php
 // Heading
-$_['heading_title']     = 'Information';
+$_['heading_title']     = 'Informações';
 
 // Text
-$_['text_success']      = 'Success: You have modified information!';
-$_['text_default']      = 'Default';
+$_['text_success']      = 'Sucesso: Você modificou a informação!';
+$_['text_default']      = 'Padrão';
 
 // Column
-$_['column_title']      = 'Information Title';
-$_['column_sort_order']	= 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_title']      = 'Nome da informação';
+$_['column_sort_order']	= 'Ordem';
+$_['column_action']     = 'Ação';
 
 // Entry
-$_['entry_title']       = 'Information Title:';
-$_['entry_description'] = 'Description:';
-$_['entry_store']       = 'Stores:';
+$_['entry_title']       = 'Nome da informação:';
+$_['entry_description'] = 'Descrição:';
+$_['entry_store']       = 'Lojas:';
 $_['entry_keyword']     = 'SEO Keyword:';
-$_['entry_status']      = 'Status:';
-$_['entry_sort_order']  = 'Sort Order:<br/><span class="help">Set to -1 to hide from listing</span>';
-$_['entry_layout']      = 'Layout Override:';
+$_['entry_status']      = 'Situação:';
+$_['entry_sort_order']  = 'Ordem:<br/><span class="help">Set to -1 to hide from listing</span>';
+$_['entry_layout']      = 'Substituir Layout:';
 
-// Error 
-$_['error_warning']     = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']  = 'Warning: You do not have permission to modify information!';
-$_['error_title']       = 'Information Title must be between 3 and 64 characters!';
-$_['error_description'] = 'Description must be between 3 characters!';
-$_['error_account']     = 'Warning: This information page cannot be deleted as it is currently assigned as the store account terms!';
-$_['error_checkout']    = 'Warning: This information page cannot be deleted as it is currently assigned as the store checkout terms!';
-$_['error_affiliate']   = 'Warning: This information page cannot be deleted as it is currently assigned as the store affiliate terms!';
-$_['error_store']       = 'Warning: This information page cannot be deleted as its currently used by %s stores!';
+// Error
+$_['error_warning']     = 'Aviso: Por favor verifique o formulário com cuidado para não ter erros!';
+$_['error_permission']  = 'Atenção: Você não tem permissão para modificar as informações!';
+$_['error_title']       = 'Nome da Informação deve ter entre 3 e 64 caracteres!';
+$_['error_description'] = 'Descrição deve ter 3 caracteres!';
+$_['error_account']     = 'Atenção: Esta página de informações não pode ser excluída, uma vez que atualmente esta atribuída como termos store account!';
+$_['error_checkout']    = 'Atenção: Esta página de informações não pode ser excluída, uma vez que atualmente esta atribuída como termos store checkout!';
+$_['error_affiliate']   = 'Atenção: Esta página de informações não pode ser excluída, uma vez que atualmente esta atribuída como termos de afiliados da loja!';
+$_['error_store']       = 'Atenção: Esta página de informações não pode ser excluída, uma vez que atualmente esta sendo usada em %s lojas!';
 ?>

@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title']          = 'Attributes';
+$_['heading_title']          = 'Atributos';
 
 // Text
-$_['text_success']           = 'Success: You have modified attributes!';
+$_['text_success']           = 'Sucesso: Você modificou os atributos!';
 
 // Column
-$_['column_name']            = 'Attribute Name';
-$_['column_attribute_group'] = 'Attribute Group';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_name']            = 'Nome do atributo';
+$_['column_attribute_group'] = 'Grupo de atributos';
+$_['column_sort_order']      = 'Ordem';
+$_['column_action']          = 'Ação';
 
 // Entry
-$_['entry_name']            = 'Attribute Name:';
-$_['entry_attribute_group'] = 'Attribute Group:';
-$_['entry_sort_order']      = 'Sort Order:';
+$_['entry_name']            = 'Nome do atributo:';
+$_['entry_attribute_group'] = 'Grupo de atributos:';
+$_['entry_sort_order']      = 'Ordem:';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify attributes!';
-$_['error_name']            = 'Attribute Name must be between 3 and 64 characters!';
-$_['error_product']         = 'Warning: This attribute cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']      = 'Atenção: Você não tem permissão para modificar os atributos!';
+$_['error_name']            = 'Nome do atributo deve ter entre 3 e 64 caracteres!';
+$_['error_product']         = 'Aviso: Este atributo não pode ser excluído, uma vez que atualmente está atribuído a %s produtos!';
 ?>
