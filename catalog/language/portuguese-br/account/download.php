@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title']   = 'Account Downloads';
+$_['heading_title']   = 'Downloads';
 
 // Text
-$_['text_account']    = 'Conta';
+$_['text_account']    = 'Minha conta';
 $_['text_downloads']  = 'Downloads';
 $_['text_order']      = 'Nº do pedido:';
 $_['text_date_added'] = 'Data de entrada:';

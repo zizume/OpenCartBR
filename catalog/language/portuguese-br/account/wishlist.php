@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'Minha lista de desejos';
+$_['heading_title'] = 'Lista de desejos';
 
 // Text
-$_['text_account']  = 'Conta';
+$_['text_account']  = 'Minha conta';
 $_['text_instock']  = 'Em estoque';
 $_['text_success']  = 'Sucesso: Você adicionou <a href="%s">%s</a> a sua <a href="%s">lista de desejos</a>!';
 $_['text_wishlist'] = 'Lista de desejos (%s)';

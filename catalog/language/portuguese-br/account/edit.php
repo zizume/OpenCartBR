@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']     = 'Informações da minha conta';
+$_['heading_title']     = 'Detalhes pessoais';
 
 // Text
-$_['text_account']      = 'Conta';
-$_['text_edit']         = 'Editar informações';
-$_['text_your_details'] = 'Seus detalhes pessoais';
+$_['text_account']      = 'Minha Conta';
+$_['text_edit']         = 'Detalhes pessoais';
+$_['text_your_details'] = 'Detalhes';
 $_['text_success']      = 'Sucesso: Sua conta foi atualizada com sucesso.';
 
 // Entry

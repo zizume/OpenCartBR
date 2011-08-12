@@ -15,7 +15,7 @@ $_['text_email']              = 'E-Mail:';
 $_['text_ip']                 = 'Endereço IP:';
 $_['text_telephone']          = 'Telefone:';
 $_['text_fax']                = 'Fax:';
-$_['text_shipping_method']    = 'Shipping Method:';
+$_['text_shipping_method']    = 'Metodo de entrega:';
 $_['text_payment_method']     = 'Forma de pagamento:';
 $_['text_total']              = 'Total:';
 $_['text_reward']             = 'Pontos de fidelidade:';
@@ -98,7 +98,7 @@ $_['entry_affiliate']         = 'Afiliado:';
 $_['entry_order_status']      = 'Situação do pedido:';
 $_['entry_notify']            = 'Notify Customer:';
 $_['entry_comment']           = 'Comentário:';
-$_['entry_shipping']          = 'Shipping Method:';
+$_['entry_shipping']          = 'Metodo de entrega:';
 $_['entry_payment']           = 'Forma de pagamento:';
 
 // Error

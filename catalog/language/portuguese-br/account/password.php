@@ -1,10 +1,10 @@
 <?php
-// Heading 
-$_['heading_title']  = 'Alterar senha';
+// Heading
+$_['heading_title']  = 'Senha';
 
 // Text
-$_['text_account']   = 'Conta';
-$_['text_password']  = 'Sua senha';
+$_['text_account']   = 'Minha Conta';
+$_['text_password']  = 'Ateração';
 $_['text_success']   = 'Sucesso: Sua senha foi atualizada com sucesso.';
 
 // Entry

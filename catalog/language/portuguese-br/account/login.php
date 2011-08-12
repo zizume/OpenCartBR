@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']                = 'Login da conta';
+$_['heading_title']                = 'Conectar';
 
 // Text
 $_['text_account']                 = 'Minha conta';

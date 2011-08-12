@@ -9,7 +9,7 @@ $_['text_success']        = 'Sucesso: Você modificou devoluções!';
 $_['text_wait']           = 'Por favor, aguarde!';
 
 // Text
-$_['text_return_id']      = 'ID da devolução:';
+$_['text_return_id']      = 'Nº da devolução:';
 $_['text_order_id']       = 'Nº do pedido:';
 $_['text_date_ordered']   = 'Data do pedido:';
 $_['text_customer']       = 'Cliente:';

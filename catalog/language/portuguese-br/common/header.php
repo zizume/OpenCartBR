@@ -5,10 +5,10 @@ $_['text_wishlist'] = 'Lista de desejos (%s)';
 $_['text_cart']     = 'Sacola de compras';
 $_['text_items']    = '%s item(s) - %s';
 $_['text_search']   = 'Busca';
-$_['text_welcome']  = 'Welcome visitor you can <a href="%s">login</a> or <a href="%s">create an account</a>.';
+$_['text_welcome']  = 'Bem-vindo visitante você pode <a href="%s">Conectar</a> ou <a href="%s">Criar uma conta</a>.';
 $_['text_logged']   = 'Você está logado como <a href="%s">%s</a> <b>(</b> <a href="%s">Logout</a> <b>)</b>';
 $_['text_account']  = 'Minha conta';
 $_['text_checkout'] = 'Finalizar compra';
-$_['text_language'] = 'Language';
-$_['text_currency'] = 'Currency';
+$_['text_language'] = 'Idioma';
+$_['text_currency'] = 'Moeda';
 ?>

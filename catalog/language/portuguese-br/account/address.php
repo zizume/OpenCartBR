@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']     = 'Catálogo de Endereços';
+$_['heading_title']     = 'Catálogo de endereços';
 
 // Text
-$_['text_account']      = 'Conta';
-$_['text_address_book'] = 'Address Book Entries';
-$_['text_edit_address'] = 'Edit Address';
+$_['text_account']      = 'Minha conta';
+$_['text_address_book'] = 'Endereços';
+$_['text_edit_address'] = 'Atualização';
 $_['text_insert']       = 'Seu endereço foi inserido com sucesso';
 $_['text_update']       = 'Seu endereço foi atualizado com sucesso';
 $_['text_delete']       = 'Seu endereço foi excluído com sucesso';
