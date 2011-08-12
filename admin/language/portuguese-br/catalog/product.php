@@ -11,7 +11,7 @@ $_['text_image_manager']     = 'Gerenciador de imagem';
 $_['text_option']            = 'Opção';
 $_['text_option_value']      = 'Valor da opção';
 $_['text_percent']           = 'Percentagem';
-$_['text_amount']            = 'Fixed Amount';
+$_['text_amount']            = 'Valor fixo';
 
 // Column
 $_['column_name']            = 'Nome do produto';
@@ -24,26 +24,26 @@ $_['column_action']          = 'Ação';
 
 // Entry
 $_['entry_name']             = 'Nome do produto:';
-$_['entry_meta_keyword']     = 'Meta Tag Keywords:';
+$_['entry_meta_keyword']     = 'Meta Tag Palavras-Chave:';
 $_['entry_meta_description'] = 'Meta Tag Descriçao:';
 $_['entry_description']      = 'Descrição:';
 $_['entry_store']            = 'Lojas:';
-$_['entry_keyword']          = 'SEO Keyword:';
+$_['entry_keyword']          = 'SEO Palavra-Chave:';
 $_['entry_model']            = 'Modelo:';
 $_['entry_sku']              = 'SKU:';
 $_['entry_upc']              = 'UPC:';
 $_['entry_location']         = 'Localização:';
 $_['entry_manufacturer']     = 'Fabricante:';
 $_['entry_shipping']         = 'Requires Shipping:';
-$_['entry_date_available']   = 'Date Available:';
+$_['entry_date_available']   = 'Data de disponibilidade:';
 $_['entry_quantity']         = 'Quantidade:';
-$_['entry_minimum']          = 'Minimum Quantity:<br/><span class="help">Force a minimum ordered amount</span>';
-$_['entry_stock_status']     = 'Out Of Stock Status:<br/><span class="help">Status shown when a product is out of stock</span>';
-$_['entry_tax_class']        = 'Tax Class:';
+$_['entry_minimum']          = 'Quantidade mínima:<br/><span class="help">Forçar um valor mínimo pedido</span>';
+$_['entry_stock_status']     = 'Situação de fora de estoque:<br/><span class="help">Situação mostrada quando um produto está fora de estoque</span>';
+$_['entry_tax_class']        = 'Tipo de imposto:';
 $_['entry_price']            = 'Preço:';
-$_['entry_points']           = 'Pontos:<br/><span class="help">Number of points needed to buy this item. If you don\'t want this product to be purchased with points leave as 0.</span>';
+$_['entry_points']           = 'Pontos:<br/><span class="help">Número de pontos necessários para comprar este item. Se você não quer este produto seja comprado com pontos deixe como 0.</span>';
 $_['entry_option_points']    = 'Pontos:';
-$_['entry_subtract']         = 'Subtract Stock:';
+$_['entry_subtract']         = 'Subtrair estoque:';
 $_['entry_weight_class']     = 'Weight Class:';
 $_['entry_weight']           = 'Peso:';
 $_['entry_length']           = 'Length Class:';

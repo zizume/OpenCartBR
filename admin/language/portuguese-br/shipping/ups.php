@@ -74,7 +74,7 @@ $_['entry_weight_class']           = 'Weight Class:<span class="help">Set to kil
 $_['entry_length_code']            = 'Length Code:<br /><span class="help">Make sure you match the measurement class with the measurement code.</span>';
 $_['entry_length_class']           = 'Length Class:<span class="help">Set to centimeters or inches.</span>';
 $_['entry_dimension']			   = 'Dimensões (C x L x A):';
-$_['entry_tax']                    = 'Tax Class:';
+$_['entry_tax']                    = 'Tipo de imposto:';
 $_['entry_geo_zone']               = 'Geo Zone:';
 $_['entry_status']                 = 'Situação:';
 $_['entry_sort_order']             = 'Ordem:';

@@ -8,7 +8,7 @@ $_['text_success']     = 'Sucesso: You have modified flat rate shipping!';
 
 // Entry
 $_['entry_cost']       = 'Cost:';
-$_['entry_tax']        = 'Tax Class:';
+$_['entry_tax']        = 'Tipo de imposto:';
 $_['entry_geo_zone']   = 'Geo Zone:';
 $_['entry_status']     = 'Situação:';
 $_['entry_sort_order'] = 'Ordem:';

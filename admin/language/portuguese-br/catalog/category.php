@@ -14,7 +14,7 @@ $_['column_action']          = 'Ação';
 
 // Entry
 $_['entry_name']             = 'Nome da categoria:';
-$_['entry_meta_keyword']     = 'Meta Tag Keywords:';
+$_['entry_meta_keyword']     = 'Meta Tag Palavras-Chave:';
 $_['entry_meta_description'] = 'Meta Tag Descrição:';
 $_['entry_description']      = 'Descrição:';
 $_['entry_parent']           = 'Categoria superior:';

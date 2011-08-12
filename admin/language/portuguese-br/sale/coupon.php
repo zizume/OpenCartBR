@@ -5,7 +5,7 @@ $_['heading_title']       = 'Cupom';
 // Text
 $_['text_success']        = 'Sucesso: Você modificou cupons!';
 $_['text_percent']        = 'Percentagem';
-$_['text_amount']         = 'Fixed Amount';
+$_['text_amount']         = 'Valor fixo';
 
 // Column
 $_['column_name']         = 'Nome do cupom';

@@ -12,7 +12,7 @@ $_['entry_display_weight']    = 'Display Delivery Weight:<br /><span class="help
 $_['entry_display_insurance'] = 'Display Insurance:<br /><span class="help">Do you want to display the shipping insurance? (e.g. Insured upto 500)</span>';
 $_['entry_display_time']      = 'Display Delivery Time:<br /><span class="help">Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)</span>';
 $_['entry_compensation']      = 'Parcelforce48 Compensation Rates:<br /><span class="help">Enter values upto 5,2 decimal places. (12345.67) Example: 34:0,100:1,250:2.25 - Insurance cover for cart values upto 34 would cost 0.00 extra, those values more than 100 and upto 250 will cost 2.25 extra. Do not enter currency symbols.</span>';
-$_['entry_tax']               = 'Tax Class:';
+$_['entry_tax']               = 'Tipo de imposto:';
 $_['entry_geo_zone']          = 'Geo Zone:';
 $_['entry_status']            = 'Situação:';
 $_['entry_sort_order']        = 'Ordem:';

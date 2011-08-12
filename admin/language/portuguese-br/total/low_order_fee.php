@@ -9,7 +9,7 @@ $_['text_success']     = 'Sucesso: You have modified low order fee total!';
 // Entry
 $_['entry_total']      = 'Order Total:';
 $_['entry_fee']        = 'Fee:';
-$_['entry_tax']        = 'Tax Class:';
+$_['entry_tax']        = 'Tipo de imposto:';
 $_['entry_status']     = 'Situação:';
 $_['entry_sort_order'] = 'Ordem:';
 

@@ -62,7 +62,7 @@ $_['entry_girth']           = 'Girth:';
 $_['entry_display_time']    = 'Display Delivery Time:<br /><span class="help">Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)</span>';
 $_['entry_display_weight']  = 'Display Delivery Weight:<br /><span class="help">Do you want to display the shipping weight? (e.g. Delivery Weight : 2.7674 Kg\'s)</span>';
 $_['entry_weight_class']    = 'Weight Class:<br /><span class="help">Set to pounds.</span>';
-$_['entry_tax']             = 'Tax Class:';
+$_['entry_tax']             = 'Tipo de imposto:';
 $_['entry_geo_zone']        = 'Geo Zone:';
 $_['entry_status']          = 'Situação:';
 $_['entry_sort_order']      = 'Ordem:';

@@ -7,7 +7,7 @@ $_['text_success']       = 'Sucesso: Você modificou fabricantes!';
 $_['text_default']       = 'Padrão';
 $_['text_image_manager'] = 'Gerenciador de imagem';
 $_['text_percent']       = 'Percentagem';
-$_['text_amount']        = 'Fixed Amount';
+$_['text_amount']        = 'Valor fixo';
 
 // Column
 $_['column_name']        = 'Nome do fabricante';
@@ -17,7 +17,7 @@ $_['column_action']      = 'Ação';
 // Entry
 $_['entry_name']         = 'Nome do fabricante:';
 $_['entry_store']        = 'Lojas:';
-$_['entry_keyword']      = 'SEO Keyword:';
+$_['entry_keyword']      = 'SEO Palavra-Chave:';
 $_['entry_image']        = 'Imagem:';
 $_['entry_sort_order']   = 'Ordem:';
 $_['entry_type']         = 'Tipo:';

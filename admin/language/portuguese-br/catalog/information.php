@@ -15,9 +15,9 @@ $_['column_action']     = 'Ação';
 $_['entry_title']       = 'Nome da informação:';
 $_['entry_description'] = 'Descrição:';
 $_['entry_store']       = 'Lojas:';
-$_['entry_keyword']     = 'SEO Keyword:';
+$_['entry_keyword']     = 'SEO Palavra-Chave:';
 $_['entry_status']      = 'Situação:';
-$_['entry_sort_order']  = 'Ordem:<br/><span class="help">Set to -1 to hide from listing</span>';
+$_['entry_sort_order']  = 'Ordem:<br/><span class="help">Defina como -1 para se esconder da listagem</span>';
 $_['entry_layout']      = 'Substituir Layout:';
 
 // Error

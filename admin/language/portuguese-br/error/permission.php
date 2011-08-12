@@ -1,7 +1,7 @@
 <?php
 // Heading
-$_['heading_title'] = 'Permission Denied!'; 
+$_['heading_title'] = 'Permissão negada!'; 
 
 // Text
-$_['text_permission'] = 'You do not have permission to access this page, please refer to your system administrator.';
+$_['text_permission'] = 'Você não tem permissão para acessar esta página, por favor consulte o administrador do sistema.';
 ?>
