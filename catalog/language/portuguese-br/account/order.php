@@ -1,41 +1,41 @@
 <?php
-// Heading 
-$_['heading_title']         = 'Order History';
+// Heading
+$_['heading_title']         = 'Histórico de pedidos';
 
 // Text
-$_['text_account']          = 'Account';
-$_['text_order']            = 'Order Information';
-$_['text_order_detail']     = 'Order Detail';
-$_['text_invoice_no']       = 'Invoice No.:';
-$_['text_order_id']         = 'Order ID:';
-$_['text_status']           = 'Status:';
-$_['text_date_added']       = 'Date Added:';
-$_['text_customer']         = 'Customer:';
+$_['text_account']          = 'Conta';
+$_['text_order']            = 'Informação do pedido';
+$_['text_order_detail']     = 'Detalhe do pedido';
+$_['text_invoice_no']       = 'Nº da fatura';
+$_['text_order_id']         = 'Nº do pedido:';
+$_['text_status']           = 'Situação:';
+$_['text_date_added']       = 'Data de entrada:';
+$_['text_customer']         = 'Cliente:';
 $_['text_shipping_address'] = 'Shipping Address';
 $_['text_shipping_method']  = 'Shipping Method:';
 $_['text_payment_address']  = 'Payment Address';
-$_['text_payment_method']   = 'Payment Method:';
-$_['text_products']         = 'Products:';
+$_['text_payment_method']   = 'Forma de pagamento:';
+$_['text_products']         = 'Produtos:';
 $_['text_total']            = 'Total:';
 $_['text_comment']          = 'Order Comments';
-$_['text_history']          = 'Order History';
-$_['text_empty']            = 'You have not made any previous orders!';
-$_['text_error']            = 'The order you requested could not be found!';
-$_['text_action']           = 'Choose an action:';
+$_['text_history']          = 'Histórico de pedidos';
+$_['text_empty']            = 'Você não fez qualquer pedido anterior!';
+$_['text_error']            = 'O pedido que você pediu não foi encontrado!';
+$_['text_action']           = 'Escolha uma ação:';
 $_['text_selected']         = 'With selected..';
-$_['text_reorder']          = 'Add to Cart';
+$_['text_reorder']          = 'Adicionar a Sacola';
 $_['text_return']           = 'Return Products';
 
 // Column
-$_['column_name']           = 'Product Name';
-$_['column_model']          = 'Model';
-$_['column_quantity']       = 'Quantity';
-$_['column_price']          = 'Price';
+$_['column_name']           = 'Nome do produto';
+$_['column_model']          = 'Modelo';
+$_['column_quantity']       = 'Quantidade';
+$_['column_price']          = 'Preço';
 $_['column_total']          = 'Total';
-$_['column_date_added']     = 'Date Added';
-$_['column_status']         = 'Status';
-$_['column_comment']        = 'Comment';
+$_['column_date_added']     = 'Data de entrada';
+$_['column_status']         = 'Situação';
+$_['column_comment']        = 'Comentário';
 
 // Error
-$_['error_warning']         = 'Warning: you must select some products and an action complete your request!';
+$_['error_warning']         = 'Aviso: você deve selecionar alguns produtos e uma ação completar sua solicitação!';
 ?>

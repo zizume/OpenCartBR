@@ -1,21 +1,21 @@
 <?php
-// Heading 
-$_['heading_title'] = 'My Wish List';
+// Heading
+$_['heading_title'] = 'Minha lista de desejos';
 
 // Text
-$_['text_account']  = 'Account';
-$_['text_instock']  = 'In Stock';
-$_['text_success']  = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_wishlist'] = 'Wish List (%s)';
-$_['text_login']    = 'You must <a href="%s">login</a> or <a href="%s">create an account</a> to save <a href="%s">%s</a> to your <a href="%s"> wish list</a>!';
-$_['text_empty']    = 'Your wish list is empty.';
+$_['text_account']  = 'Conta';
+$_['text_instock']  = 'Em estoque';
+$_['text_success']  = 'Sucesso: Você adicionou <a href="%s">%s</a> a sua <a href="%s">lista de desejos</a>!';
+$_['text_wishlist'] = 'Lista de desejos (%s)';
+$_['text_login']    = 'Você deve <a href="%s">login</a> ou <a href="%s">criar uma conta</a> para salvar <a href="%s">%s</a> to your <a href="%s">lista de desejos</a>!';
+$_['text_empty']    = 'Sua lista de desejos está vazia.';
 
 // Column
-$_['column_remove'] = 'Remove';
-$_['column_image']  = 'Image';
-$_['column_name']   = 'Product Name';
-$_['column_model']  = 'Model';
-$_['column_stock']  = 'Stock';
-$_['column_price']  = 'Unit Price';
-$_['column_cart']   = 'Buy Now';
+$_['column_remove'] = 'Remover';
+$_['column_image']  = 'Imagem';
+$_['column_name']   = 'Nome do produto';
+$_['column_model']  = 'Modelo';
+$_['column_stock']  = 'Estoque';
+$_['column_price']  = 'Preço unitário';
+$_['column_cart']   = 'Comprar agora';
 ?>

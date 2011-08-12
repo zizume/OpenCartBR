@@ -1,17 +1,17 @@
 <?php
 // Heading 
-$_['heading_title']  = 'Change Password';
+$_['heading_title']  = 'Alterar senha';
 
 // Text
-$_['text_account']   = 'Account';
-$_['text_password']  = 'Your Password';
-$_['text_success']   = 'Success: Your password has been successfully updated.';
+$_['text_account']   = 'Conta';
+$_['text_password']  = 'Sua senha';
+$_['text_success']   = 'Sucesso: Sua senha foi atualizada com sucesso.';
 
 // Entry
-$_['entry_password'] = 'Password:';
-$_['entry_confirm']  = 'Password Confirm:';
+$_['entry_password'] = 'Senha:';
+$_['entry_confirm']  = 'Confirmar senha:';
 
 // Error
-$_['error_password'] = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']  = 'Password confirmation does not match password!';
+$_['error_password'] = 'A senha deve ter entre 4 e 20 caracteres!';
+$_['error_confirm']  = 'Confirmação da senha não corresponde com a senha!';
 ?>

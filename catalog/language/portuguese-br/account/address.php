@@ -1,35 +1,35 @@
 <?php
-// Heading 
-$_['heading_title']     = 'Address Book';
+// Heading
+$_['heading_title']     = 'Catálogo de Endereços';
 
 // Text
-$_['text_account']      = 'Account';
+$_['text_account']      = 'Conta';
 $_['text_address_book'] = 'Address Book Entries';
 $_['text_edit_address'] = 'Edit Address';
-$_['text_insert']       = 'Your address has been successfully inserted';
-$_['text_update']       = 'Your address has been successfully updated';
-$_['text_delete']       = 'Your address has been successfully deleted';
+$_['text_insert']       = 'Seu endereço foi inserido com sucesso';
+$_['text_update']       = 'Seu endereço foi atualizado com sucesso';
+$_['text_delete']       = 'Seu endereço foi excluído com sucesso';
 
 // Entry
-$_['entry_firstname']   = 'First Name:';
-$_['entry_lastname']    = 'Last Name:';
-$_['entry_company']     = 'Company:';
-$_['entry_address_1']   = 'Address 1:';
-$_['entry_address_2']   = 'Address 2:';
-$_['entry_postcode']    = 'Post Code:';
-$_['entry_city']        = 'City:';
-$_['entry_country']     = 'Country:';
-$_['entry_zone']        = 'Region / State:';
-$_['entry_default']     = 'Default Address:';
+$_['entry_firstname']   = 'Nome:';
+$_['entry_lastname']    = 'Sobrenome:';
+$_['entry_company']     = 'Empresa:';
+$_['entry_address_1']   = 'Endereço 1:';
+$_['entry_address_2']   = 'Endereço 2:';
+$_['entry_postcode']    = 'CEP:';
+$_['entry_city']        = 'Cidade:';
+$_['entry_country']     = 'País:';
+$_['entry_zone']        = 'Região / Estado:';
+$_['entry_default']     = 'Endereço padrão:';
 
 // Error
-$_['error_delete']      = 'Warning: You must have at least one address!';
-$_['error_default']     = 'Warning: You can not delete your default address!';
-$_['error_firstname']   = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']    = 'Last Name must be between 1 and 32 characters!';
-$_['error_address_1']   = 'Address must be between 3 and 128 characters!';
-$_['error_postcode']    = 'Postcode must be between 2 and 10 characters!';
-$_['error_city']        = 'City must be between 2 and 128 characters!';
-$_['error_country']     = 'Please select a country!';
-$_['error_zone']        = 'Please select a region / state!';
+$_['error_delete']      = 'Aviso: Você deve ter pelo menos um endereço!';
+$_['error_default']     = 'Aviso: Você não pode excluir o seu endereço de padrão!';
+$_['error_firstname']   = 'Nome deve ter entre 1 e 32 caracteres!';
+$_['error_lastname']    = 'Sobrenome deve ter entre 1 e 32 caracteres!';
+$_['error_address_1']   = 'Endereço deve ter entre 3 e 128 caracteres';
+$_['error_postcode']    = 'CEP deve ter entre 2 e 10 caracteres';
+$_['error_city']        = 'Cidade deve ter entre 2 e 128 caracteres!';
+$_['error_country']     = 'Por favor selecione um país!';
+$_['error_zone']        = 'Por favor selecione uma região / estado!';
 ?>

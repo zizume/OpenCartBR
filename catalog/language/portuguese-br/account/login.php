@@ -1,21 +1,21 @@
 <?php
-// Heading 
-$_['heading_title']                = 'Account Login';
+// Heading
+$_['heading_title']                = 'Login da conta';
 
 // Text
-$_['text_account']                 = 'Account';
-$_['text_login']                   = 'Login';
-$_['text_new_customer']            = 'New Customer';
-$_['text_register']                = 'Register Account';
-$_['text_register_account']        = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
-$_['text_returning_customer']      = 'Returning Customer';
-$_['text_i_am_returning_customer'] = 'I am a returning customer';
-$_['text_forgotten']               = 'Forgotten Password';
+$_['text_account']                 = 'Minha conta';
+$_['text_login']                   = 'Conectar';
+$_['text_new_customer']            = 'Novo cliente';
+$_['text_register']                = 'Criar uma conta';
+$_['text_register_account']        = 'Ao criar uma conta você será capaz comprar mais rápido, estar atualizado sobre o status de um pedido, e acompanhar os pedidos que você já fez.';
+$_['text_returning_customer']      = 'Cliente já existente';
+$_['text_i_am_returning_customer'] = 'Eu sou um cliente existente';
+$_['text_forgotten']               = 'Senha esquecida';
 
 // Entry
-$_['entry_email']                  = 'E-Mail Address:';
-$_['entry_password']               = 'Password:';
+$_['entry_email']                  = 'Endereço de e-mail:';
+$_['entry_password']               = 'Senha:';
 
 // Error
-$_['error_login']                  = 'Warning: No match for E-Mail Address and/or Password.';
+$_['error_login']                  = 'Aviso: Nenhuma correspondência para o endereço de e-mail e/ou senha.';
 ?>

@@ -1,19 +1,19 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Account';
+$_['heading_title']    = 'Conta';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_wishlist']    = 'Wish List';
-$_['text_order']       = 'Order History';
+$_['text_register']    = 'Registrar';
+$_['text_login']       = 'Conectar';
+$_['text_logout']      = 'Desconectar';
+$_['text_forgotten']   = 'Senha esquecida';
+$_['text_account']     = 'Minha conta';
+$_['text_edit']        = 'Editar conta';
+$_['text_password']    = 'Senha';
+$_['text_wishlist']    = 'Lista de desejos';
+$_['text_order']       = 'Histórico de pedidos';
 $_['text_download']    = 'Downloads';
-$_['text_return']      = 'Returns';
-$_['text_transaction'] = 'Transactions';
-$_['text_newsletter']  = 'Newsletter';
+$_['text_return']      = 'Devoluções';
+$_['text_transaction'] = 'Transações';
+$_['text_newsletter']  = 'Boletim informativo';
 ?>

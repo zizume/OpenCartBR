@@ -1,24 +1,24 @@
 <?php
-// Heading 
-$_['heading_title']     = 'My Account Information';
+// Heading
+$_['heading_title']     = 'Informações da minha conta';
 
 // Text
-$_['text_account']      = 'Account';
-$_['text_edit']         = 'Edit Information';
-$_['text_your_details'] = 'Your Personal Details';
-$_['text_success']      = 'Success: Your account has been successfully updated.';
+$_['text_account']      = 'Conta';
+$_['text_edit']         = 'Editar informações';
+$_['text_your_details'] = 'Seus detalhes pessoais';
+$_['text_success']      = 'Sucesso: Sua conta foi atualizada com sucesso.';
 
 // Entry
-$_['entry_firstname']  = 'First Name:';
-$_['entry_lastname']   = 'Last Name:';
+$_['entry_firstname']  = 'Nome:';
+$_['entry_lastname']   = 'Sobrenome:';
 $_['entry_email']      = 'E-Mail:';
-$_['entry_telephone']  = 'Telephone:';
+$_['entry_telephone']  = 'Telefone:';
 $_['entry_fax']        = 'Fax:';
 
 // Error
-$_['error_exists']     = 'Warning: E-Mail address is already registered!';
-$_['error_firstname']  = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']   = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']      = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']  = 'Telephone must be between 3 and 32 characters!';
+$_['error_exists']     = 'Aviso: E-Mail address is already registered!';
+$_['error_firstname']  = 'Nome deve ter entre 1 e 32 caracteres!';
+$_['error_lastname']   = 'Sobrenome deve ter entre 1 e 32 caracteres!';
+$_['error_email']      = 'Endereço de e-mail não parece ser válido!';
+$_['error_telephone']  = 'Telefone deve ter entre 3 e 32 caracteres!';
 ?>

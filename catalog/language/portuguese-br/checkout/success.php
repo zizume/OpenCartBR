@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title'] = 'Your Order Has Been Processed!';
+$_['heading_title'] = 'Seu pedido foi processado!';
 
 // Text
-$_['text_customer'] = '<p>Your order has been successfully processed!</p><p>You can view your order history by going to the <a href="%s">my account</a> page and by clicking on <a href="%s">history</a>.</p>If your purchase has an associated download, you can goto the account <a href="%s">downloads</a> page to view them.</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
-$_['text_guest']    = '<p>Your order has been successfully processed!</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
-$_['text_basket']   = 'Basket';
-$_['text_checkout'] = 'Checkout';
-$_['text_success']  = 'Success';
+$_['text_customer'] = '<p>Seu pedido foi processado com sucesso!</p><p>Você pode ver seu histórico de pedidos, indo para página <a href="%s">minha conta</a> e clicando em <a href="%s">histórico</a>.</p>Se a sua compra tem um download associado, você pode ir para pagina de <a href="%s">downloads</a>.</p><p>Envie as perguntas para que você tiver para o <a href="%s">administrador</a> da loja.</p><p>Obrigado por fazer compras on-line conosco!</p>';
+$_['text_guest']    = '<p>Seu pedido foi processado com sucesso!</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Obrigado por fazer compras on-line conosco!</p>';
+$_['text_basket']   = 'Sacola';
+$_['text_checkout'] = 'Finalizar compra';
+$_['text_success']  = 'Sucesso';
 ?>

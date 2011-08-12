@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']    = 'Site Map';
+$_['heading_title']    = 'Mapa do site';
  
 // Text
-$_['text_special']     = 'Special Offers';
-$_['text_account']     = 'My Account';
+$_['text_special']     = 'Ofertas especiais';
+$_['text_account']     = 'Minha conta';
 $_['text_edit']        = 'Account Information';
-$_['text_password']    = 'Password';
+$_['text_password']    = 'Senha';
 $_['text_address']     = 'Address Book';
-$_['text_history']     = 'Order History';
+$_['text_history']     = 'Histórico de pedidos';
 $_['text_download']    = 'Downloads';
-$_['text_cart']        = 'Shopping Cart';
-$_['text_checkout']    = 'Checkout';
-$_['text_search']      = 'Search';
-$_['text_information'] = 'Information';
-$_['text_contact']     = 'Contact Us';
+$_['text_cart']        = 'Sacola de compras';
+$_['text_checkout']    = 'Finalizar compra';
+$_['text_search']      = 'Busca';
+$_['text_information'] = 'Informação';
+$_['text_contact']     = 'Fale conosco';
 ?>

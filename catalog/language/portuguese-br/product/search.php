@@ -1,38 +1,38 @@
 <?php
 // Heading
-$_['heading_title']     = 'Search';
- 
+$_['heading_title']     = 'Busca';
+
 // Text
-$_['text_search']       = 'Products meeting the search criteria';
-$_['text_keyword']      = 'Keywords';
-$_['text_category']     = 'All Categories';
-$_['text_sub_category'] = 'Search in subcategories';
-$_['text_critea']       = 'Search Criteria';
-$_['text_empty']        = 'There is no product that matches the search criteria.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:'; 
-$_['text_points']       = 'Reward Points:'; 
-$_['text_price']        = 'Price:'; 
-$_['text_tax']          = 'Ex Tax:'; 
-$_['text_reviews']      = 'Based on %s reviews.'; 
-$_['text_compare']      = 'Product Compare (%s)'; 
-$_['text_display']      = 'Display:';
-$_['text_list']         = 'List';
-$_['text_grid']         = 'Grid';
-$_['text_sort']         = 'Sort By:';
-$_['text_default']      = 'Default';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
-$_['text_model_asc']    = 'Model (A - Z)';
-$_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';
+$_['text_search']       = 'Produtos que satisfaçam os critérios de busca';
+$_['text_keyword']      = 'Palavras-chave';
+$_['text_category']     = 'Todas categorias';
+$_['text_sub_category'] = 'Busca em subcategorias';
+$_['text_critea']       = 'Critérios de busca';
+$_['text_empty']        = 'Não há nenhum produto que corresponda os critérios de busca.';
+$_['text_quantity']     = 'Qte:';
+$_['text_manufacturer'] = 'Marca:';
+$_['text_model']        = 'Código do produto:';
+$_['text_points']       = 'Pontos de fidelidade:';
+$_['text_price']        = 'Preço:';
+$_['text_tax']          = 'Ex Tax:';
+$_['text_reviews']      = 'Baseado em %s opniões.';
+$_['text_compare']      = 'Comparação de produtos (%s)';
+$_['text_display']      = 'Exibir:';
+$_['text_list']         = 'Lista';
+$_['text_grid']         = 'Grade';
+$_['text_sort']         = 'Ordem:';
+$_['text_default']      = 'Padrão';
+$_['text_name_asc']     = 'Nome (A - Z)';
+$_['text_name_desc']    = 'Nome (Z - A)';
+$_['text_price_asc']    = 'Preço (Baixo &gt; Alto)';
+$_['text_price_desc']   = 'Preço (Alto &gt; Baixo)';
+$_['text_rating_asc']   = 'Avaliação (Menor)';
+$_['text_rating_desc']  = 'Avaliação (Maior)';
+$_['text_model_asc']    = 'Modelo (A - Z)';
+$_['text_model_desc']   = 'Modelo (Z - A)';
+$_['text_limit']        = 'Mostrar:';
 
 // Entry
-$_['entry_search']      = 'Search:';
-$_['entry_description'] = 'Search in product descriptions';
+$_['entry_search']      = 'Busca:';
+$_['entry_description'] = 'Buscar em descrição de produtos';
 ?>
