@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title']     = 'Product Comparison';
- 
+$_['heading_title']     = 'Comparação de produtos';
+
 // Text
-$_['text_product']      = 'Product Details';
+$_['text_product']      = 'Detalhes do produto';
 $_['text_name']         = 'Produto';
 $_['text_image']        = 'Imagem';
 $_['text_price']        = 'Preço';
 $_['text_model']        = 'Modelo';
-$_['text_manufacturer'] = 'Brand';
+$_['text_manufacturer'] = 'Marca';
 $_['text_availability'] = 'Disponibilidade';
 $_['text_instock']      = 'Em estoque';
 $_['text_rating']       = 'Avaliação';
-$_['text_reviews']      = 'Based on %s opniões.';
-$_['text_summary']      = 'Summary';
-$_['text_weight']       = 'Weight';
-$_['text_dimension']    = 'Dimensions (L x W x H)';
+$_['text_reviews']      = 'Baseado em %s opniões.';
+$_['text_summary']      = 'Sumário';
+$_['text_weight']       = 'Peso';
+$_['text_dimension']    = 'Dimensões (C x L x A)';
 $_['text_remove']       = 'Remover';
-$_['text_compare']      = 'Comparação de produtos (%s)';
-$_['text_success']      = 'Sucesso: You have added <a href="%s">%s</a> to your <a href="%s">product comparison</a>!';
-$_['text_empty']        = 'You have not chosen any products to compare.';
+$_['text_compare']      = 'Comparar de produtos (%s)';
+$_['text_success']      = 'Sucesso: Você adicionou <a href="%s">%s</a> a sua lista de <a href="%s">comparação de produto</a>!';
+$_['text_empty']        = 'Você não escolheu nenhum produto para comparar.';
 ?>

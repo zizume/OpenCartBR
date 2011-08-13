@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']      = 'Devoluções de produtos';
+$_['heading_title']      = 'Devolução de produtos';
 
 // Text
 $_['text_account']       = 'Minha conta';
 $_['text_return']        = 'Informação de devolução';
-$_['text_description']   = '<p>Preencha o formulário abaixo para solicitar um número de RMA.</p>';
+$_['text_description']   = '<p>Preencha o formulário abaixo para solicitar um número de ADM.</p>';
 $_['text_order']         = 'Informação do pedido';
 $_['text_product']       = 'Informação do produto &amp; Razão da devolução';
 $_['text_additional']    = 'Informação adicional';

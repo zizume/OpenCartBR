@@ -13,7 +13,7 @@ $_['text_payment']              = 'Payment Information';
 $_['text_your_password']        = 'Sua senha';
 $_['text_cheque']               = 'Cheque';
 $_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Bank Transfer';
+$_['text_bank']                 = 'Transferência bancária';
 $_['text_agree']                = 'I have read and agree to the <a class="fancybox" href="%s" alt="%s"><b>%s</b></a>';
 
 // Entry
@@ -29,7 +29,7 @@ $_['entry_address_2']           = 'Endereço 2:';
 $_['entry_postcode']            = 'CEP:';
 $_['entry_city']                = 'Cidade:';
 $_['entry_country']             = 'País:';
-$_['entry_zone']                = 'Região / Estado:';
+$_['entry_zone']                = 'Região/Estado:';
 $_['entry_tax']                 = 'ID do imposto:';
 $_['entry_payment']             = 'Forma de pagamento:';
 $_['entry_cheque']              = 'Cheque Payee Name:';
@@ -53,7 +53,7 @@ $_['error_confirm']             = 'Confirmação da senha não corresponde com a
 $_['error_address_1']           = 'Endereço 1 deve ter entre 3 e 128 caracteres!';
 $_['error_city']                = 'Cidade deve ter entre 2 e 128 caracteres!';
 $_['error_country']             = 'Por favor selecione um país!';
-$_['error_zone']                = 'Por favor selecione uma região / estado!';
+$_['error_zone']                = 'Por favor selecione uma Região/Estado!';
 $_['error_postcode']            = 'CEP deve ter entre 2 e 10 caracteres';
 $_['error_agree']               = 'Aviso: You must agree to the %s!';
 ?>

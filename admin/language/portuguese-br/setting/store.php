@@ -25,7 +25,7 @@ $_['entry_meta_description']    = 'Meta Tag Description:';
 $_['entry_layout']              = 'Default Layout:';
 $_['entry_template']            = 'Template:';
 $_['entry_country']             = 'País:';
-$_['entry_zone']                = 'Região / Estado:';
+$_['entry_zone']                = 'Região/Estado:';
 $_['entry_language']            = 'Language:';
 $_['entry_currency']            = 'Currency:';
 $_['entry_catalog_limit'] 	    = 'Default Items Per Page (Catalog):<br /><span class="help">Determines how many catalog items are shown per page (products, categories, etc)</span>';

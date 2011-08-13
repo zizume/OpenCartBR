@@ -2,7 +2,7 @@
 // Text
 $_['text_title']       = 'Parcelforce 48';
 $_['text_description'] = 'Parcelforce 48';
-$_['text_weight']      = 'Peso:'; 
-$_['text_insurance']   = 'Insured upto:';   
-$_['text_time']        = 'Estimated Time: Within 48 Hours'; 
+$_['text_weight']      = 'Peso:';
+$_['text_insurance']   = 'Segurado até:';
+$_['text_time']        = 'Tempo estimado: Dentro de 48 Horas';
 ?>

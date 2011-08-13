@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Low Order Fee';
+$_['heading_title']    = 'Taxa para pequenos pedidos';
 
 // Text
 $_['text_total']       = 'Order Totals';

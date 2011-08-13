@@ -20,7 +20,7 @@ $_['entry_meta_description']    = 'Meta Tag Description:';
 $_['entry_layout']              = 'Default Layout:';
 $_['entry_template']            = 'Template:';
 $_['entry_country']             = 'País:';
-$_['entry_zone']                = 'Região / Estado:';
+$_['entry_zone']                = 'Região/Estado:';
 $_['entry_language']            = 'Language:';
 $_['entry_admin_language']      = 'Administration Language:';
 $_['entry_currency']            = 'Currency:<br /><span class="help">Change the default currency. Clear your browser cache to see the change and reset your existing cookie.</span>';

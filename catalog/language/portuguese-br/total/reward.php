@@ -1,17 +1,17 @@
 <?php
-// Heading 
-$_['heading_title'] = 'Use Reward Points (Available %s)';
+// Heading
+$_['heading_title'] = 'Usar pontos de fidelidade (Disponíveis %s)';
 
 // Text
-$_['text_reward']   = 'Reward Points(%s)';
-$_['text_order_id'] = 'Order ID: #%s';
-$_['text_success']  = 'Sucesso: Your reward points discount has been applied!';
+$_['text_reward']   = 'Pontos de fidelidade (%s)';
+$_['text_order_id'] = 'Nº do pedido: #%s';
+$_['text_success']  = 'Sucesso: Seus pontos de fidelidade foram aplicados!';
 
 // Entry
-$_['entry_reward']  = 'Points to use (Max %s):';
+$_['entry_reward']  = 'Pontos para utilização (Max %s):';
 
 // Error
-$_['error_empty']   = 'Aviso: Please enter the amount of points you wish to use!';
-$_['error_points']  = 'Aviso: You don\'t have %s reward points!';
-$_['error_maximum'] = 'Aviso: The maximum number of points that can be applied is %s!';
+$_['error_empty']   = 'Aviso: Por favor digite o número de pontos que você deseja usar!';
+$_['error_points']  = 'Aviso: Você não tem %s pontos de fidelidade!';
+$_['error_maximum'] = 'Aviso: O número máximo de pontos que podem ser aplicados é %s!';
 ?>

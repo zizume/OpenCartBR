@@ -40,7 +40,7 @@ $_['entry_address_2']       = 'Endereço 2:';
 $_['entry_city']            = 'Cidade:';
 $_['entry_postcode']        = 'CEP:';
 $_['entry_country']         = 'País:';
-$_['entry_zone']            = 'Região / Estado:';
+$_['entry_zone']            = 'Região/Estado:';
 $_['entry_default']         = 'Endereço padrão:';
 $_['entry_amount']          = 'Amount:';
 $_['entry_points']          = 'Pontos:';
@@ -59,5 +59,5 @@ $_['error_address_1']       = 'Endereço 1 deve ter entre 3 e 128 caracteres!';
 $_['error_city']            = 'Cidade deve ter entre 2 e 128 caracteres!';
 $_['error_postcode']        = 'CEP deve ter entre 2 e 10 caracteres para este país!';
 $_['error_country']         = 'Por favor selecione um país!';
-$_['error_zone']            = 'Por favor selecione uma região / estado!';
+$_['error_zone']            = 'Por favor selecione uma Região/Estado!';
 ?>

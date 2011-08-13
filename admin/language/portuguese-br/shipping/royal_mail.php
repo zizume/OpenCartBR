@@ -5,10 +5,10 @@ $_['heading_title']             = 'Royal Mail';
 // Text
 $_['text_shipping']             = 'Shipping';
 $_['text_success']              = 'Sucesso: You have modified Royal Mail shipping!';
-$_['text_1st_class_standard']   = 'First Class Standard Post';
-$_['text_1st_class_recorded']   = 'First Class Recorded Post';
-$_['text_2nd_class_standard']   = 'Second Class Standard Post';
-$_['text_2nd_class_recorded']   = 'Second Class Recorded Post';
+$_['text_1st_class_standard']   = 'Primeira Classe Postagem Padrão';
+$_['text_1st_class_recorded']   = 'Primeira Classe Postagem Rastreada';
+$_['text_2nd_class_standard']   = 'Second Class Postagem Padrão';
+$_['text_2nd_class_recorded']   = 'Second Class Postagem Rastreada';
 $_['text_standard_parcels']     = 'Standard Parcels';
 $_['text_airmail']              = 'Airmail';
 $_['text_international_signed'] = 'International Signed';

@@ -1,6 +1,6 @@
 <?php
-// Heading 
-$_['heading_title'] = 'Informação';
+// Heading
+$_['heading_title'] = 'Informações';
 
 // Text
 $_['text_contact']  = 'Fale conosco';

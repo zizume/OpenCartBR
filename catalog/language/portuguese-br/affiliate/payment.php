@@ -9,7 +9,7 @@ $_['text_your_payment']         = 'Payment Information';
 $_['text_your_password']        = 'Sua senha';
 $_['text_cheque']               = 'Cheque';
 $_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Bank Transfer';
+$_['text_bank']                 = 'Transferência bancária';
 $_['text_success']              = 'Sucesso: Your account has been successfully updated.';
 
 // Entry

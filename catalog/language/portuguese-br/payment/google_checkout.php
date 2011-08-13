@@ -2,5 +2,5 @@
 // Entry
 $_['entry_postcode'] = 'CEP:';
 $_['entry_country']  = 'País:';
-$_['entry_zone']     = 'Região / Estado:';
+$_['entry_zone']     = 'Região/Estado:';
 ?>

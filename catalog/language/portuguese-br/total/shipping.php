@@ -1,19 +1,19 @@
 <?php
-// Heading 
-$_['heading_title']     = 'Estimate Shipping &amp; Taxes';
+// Heading
+$_['heading_title']     = 'Frente &amp; Impostos estimados';
 // Text
-$_['text_shipping']     = 'Enter your destination to get a shipping estimate.';
-$_['text_success']      = 'Sucesso: Your shipping estimate has been applied!';
+$_['text_shipping']     = 'Insira o seu destino para obter uma estimativa de frete.';
+$_['text_success']      = 'Sucesso: Sua estimava de frente foi aplicada!';
 
 // Entry
 $_['entry_country']     = 'País:';
-$_['entry_zone']        = 'Região / Estado:';
+$_['entry_zone']        = 'Região/Estado:';
 $_['entry_postcode']    = 'CEP:';
 
 // Error
 $_['error_postcode']    = 'CEP deve ter entre 2 e 10 caracteres';
 $_['error_country']     = 'Por favor selecione um país!';
-$_['error_zone']        = 'Por favor selecione uma região / estado!';
+$_['error_zone']        = 'Por favor selecione uma Região/Estado!';
 $_['error_shipping']    = 'Aviso: Método de entrega necessário!';
-$_['error_no_shipping'] = 'Aviso: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_no_shipping'] = 'Aviso: Nenhuma opção de Frete está disponível. Por favor <a href="%s">fale conosco</a> para obter ajuda!';
 ?>
