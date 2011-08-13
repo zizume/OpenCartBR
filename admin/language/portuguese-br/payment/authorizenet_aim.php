@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Authorize.Net (AIM)';
 
 // Text 
-$_['text_payment']       = 'Payment';
+$_['text_payment']       = 'Pagamento';
 $_['text_success']       = 'Sucesso: You have modified Authorize.Net (AIM) account details!';
 $_['text_test']          = 'Test';
 $_['text_live']          = 'Live';

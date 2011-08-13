@@ -10,8 +10,8 @@
 // Text
 $_['text_title']          = 'Cartão de crédito / Cartão de débito (Paymate)';
 
-$_['text_unable']         = 'Unable to locate or update your order status';
-$_['text_declined']       = 'Payment was declined by Paymate';
-$_['text_failed']         = 'Paymate Transaction Failed';
-$_['text_failed_message'] = '<p>Unfortunately there was an error processing your Paymate transaction.</p><p><b>Warning: </b>%s</p><p>Please verify your Paymate account balance before attempting to re-process this order</p><p> If you believe this transaction has completed successfully, or is showing as a deduction in your Paymate account, please <a href="%s">Contact Us</a> with your order details.</p>';
+$_['text_unable']         = 'Não foi possível localizar ou atualizar a situação do pedido';
+$_['text_declined']       = 'O pagamento foi recusado pelo Paymate';
+$_['text_failed']         = 'Falha na transação com o Paymate';
+$_['text_failed_message'] = '<p>Infelizmente houve um erro ao processar sua transação no PayMate.</p><p><b>Aviso: </b>%s</p><p>Por favor verifique o saldo da conta PayMate antes de tentar reprocessar este pedido</p><p> Se você acredita que essa transação foi concluída com êxito, ou está mostrando como uma dedução na sua conta PayMate, por favor <a href="%s">fale conosco</a> com detalhes o seu pedido.</p>';
 ?>

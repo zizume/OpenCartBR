@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Pagamento contra entrega';
 
 // Text
-$_['text_payment']       = 'Payment';
+$_['text_payment']       = 'Pagamento';
 $_['text_success']       = 'Sucesso: You have modified Cash On Delivery payment module!';
 
 // Entry

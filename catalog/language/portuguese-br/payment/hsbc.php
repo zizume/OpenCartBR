@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title'] = 'Cartão de crédito/Cartão de débito (HSBC)';
+$_['text_title'] = 'Cartão de crédito / Cartão de débito (HSBC)';
 ?>

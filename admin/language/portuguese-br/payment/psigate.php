@@ -3,7 +3,7 @@
 $_['heading_title']      = 'PSIGate';
 
 // Text 
-$_['text_payment']       = 'Payment'; 
+$_['text_payment']       = 'Pagamento'; 
 $_['text_success']       = 'Sucesso: You have modified PSIGate account details!';
 
 // Entry

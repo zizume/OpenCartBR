@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Sub-Total';
 
 // Text
-$_['text_total']       = 'Order Totals';
+$_['text_total']       = 'Total de pedidos';
 $_['text_success']     = 'Sucesso: You have modified sub-total total!';
 
 // Entry

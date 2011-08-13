@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Taxa para pequenos pedidos';
 
 // Text
-$_['text_total']       = 'Order Totals';
+$_['text_total']       = 'Total de pedidos';
 $_['text_success']     = 'Sucesso: You have modified low order fee total!';
 
 // Entry

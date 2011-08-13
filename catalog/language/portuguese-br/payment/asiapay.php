@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title'] = 'Cartão de crédito/Cartão de débito (AsiaPay)';
+$_['text_title'] = 'Cartão de crédito / Cartão de débito (AsiaPay)';
 ?>

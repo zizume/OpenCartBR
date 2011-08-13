@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Bestsellers';
+$_['heading_title']       = 'Mais vendidos';
 
 // Text
 $_['text_module']         = 'Módulos';

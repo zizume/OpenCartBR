@@ -8,7 +8,7 @@ $_['text_reward']     = 'Pontos de fidelidade: %s';
 $_['text_items']      = '%s item(s) - %s';
 $_['text_success']    = 'Sucesso: Você adicionou <a href="%s">%s</a> a sua <a href="%s">sacola de compras</a>!';
 $_['text_empty']      = 'Sua sacola de compras está facil!';
-$_['text_login']      = 'Atenção: Você deve fazer <a href="%s">login</a> ou <a href="%s">criar uma conta</a> para ver preços!';
+$_['text_login']      = 'Atenção: Você pode <a href="%s">Conectar</a> ou <a href="%s">Criar uma conta</a> para ver preços!';
 
 // Column
 $_['column_remove']   = 'Remover';

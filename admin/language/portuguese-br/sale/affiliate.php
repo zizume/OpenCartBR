@@ -38,7 +38,7 @@ $_['entry_address_2']           = 'Endereço 2:';
 $_['entry_city']                = 'Cidade:';
 $_['entry_postcode']            = 'CEP:';
 $_['entry_country']             = 'País:';
-$_['entry_zone']                = 'Região/Estado:';
+$_['entry_zone']                = 'Região / Estado:';
 $_['entry_code']                = 'Código de rastreamento:<span class="help">The tracking code that will be used to track referrals.</span>';
 $_['entry_commission']          = 'Comissão (%):<span class="help">Percentagem que o afiliado recebe a cada pedido.</span>';
 $_['entry_tax']                 = 'ID do imposto:';
@@ -47,7 +47,7 @@ $_['entry_cheque']              = 'Cheque Payee Name:';
 $_['entry_paypal']              = 'PayPal Email Account:';
 $_['entry_bank_name']           = 'Nome do banco:';
 $_['entry_bank_branch_number']  = 'ABA/BSB number (Branch Number):';
-$_['entry_bank_swift_code']     = 'SWIFT Code:';
+$_['entry_bank_swift_code']     = 'Código SWIFT';
 $_['entry_bank_account_name']   = 'Nome da conta:';
 $_['entry_bank_account_number'] = 'Número de Conta:';
 $_['entry_amount']              = 'Amount:';
@@ -65,6 +65,6 @@ $_['error_address_1']           = 'Endereço 1 deve ter entre 3 e 128 caracteres
 $_['error_city']                = 'Cidade deve ter entre 2 e 128 caracteres!';
 $_['error_postcode']            = 'CEP deve ter entre 2 e 10 caracteres para este país!';
 $_['error_country']             = 'Por favor selecione um país!';
-$_['error_zone']                = 'Por favor selecione uma Região/Estado!';
+$_['error_zone']                = 'Por favor selecione uma Região / Estado!';
 $_['error_code']                = 'Código de monitoramento é necessário!';
 ?>

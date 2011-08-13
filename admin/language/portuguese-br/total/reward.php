@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Pontos de fidelidade';
 
 // Text
-$_['text_total']       = 'Order Totals';
+$_['text_total']       = 'Total de pedidos';
 $_['text_success']     = 'Sucesso: You have modified reward points total!';
 
 // Entry
